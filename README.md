@@ -1,2 +1,2 @@
 # Heroku-Deployment-Using-Flask-
-the link >--- https://goldstockspredictor.herokuapp.com/
+the link to view the output >--- https://goldstockspredictor.herokuapp.com/
